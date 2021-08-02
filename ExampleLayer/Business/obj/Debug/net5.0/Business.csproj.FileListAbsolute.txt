@@ -1,0 +1,17 @@
+D:\ExampleLayer\Business\bin\Debug\net5.0\Business.deps.json
+D:\ExampleLayer\Business\bin\Debug\net5.0\Business.dll
+D:\ExampleLayer\Business\bin\Debug\net5.0\ref\Business.dll
+D:\ExampleLayer\Business\bin\Debug\net5.0\Business.pdb
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.dll
+D:\ExampleLayer\Business\obj\Debug\net5.0\ref\Business.dll
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.pdb
+D:\ExampleLayer\Business\bin\Debug\net5.0\DataAccess.dll
+D:\ExampleLayer\Business\bin\Debug\net5.0\Entities.dll
+D:\ExampleLayer\Business\bin\Debug\net5.0\DataAccess.pdb
+D:\ExampleLayer\Business\bin\Debug\net5.0\Entities.pdb
+D:\ExampleLayer\Business\obj\Debug\net5.0\Business.csproj.CopyComplete

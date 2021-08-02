@@ -1,0 +1,15 @@
+D:\ExampleLayer\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\ExampleLayer\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+D:\ExampleLayer\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+D:\ExampleLayer\Entities\bin\Debug\net5.0\Entities.dll
+D:\ExampleLayer\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\ExampleLayer\Entities\bin\Debug\net5.0\Entities.pdb
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.dll
+D:\ExampleLayer\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.pdb
+D:\ExampleLayer\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
